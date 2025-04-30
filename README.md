@@ -1,6 +1,6 @@
 # CodeIgniter Secure Authentication Boilerplate
 
-A lightweight and secure authentication boilerplate built on **CodeIgniter 3/4**. This boilerplate provides a ready-to-use foundation for user login, registration, and session management, designed to follow best security practices.
+A lightweight and secure authentication boilerplate built on **CodeIgniter**. This boilerplate provides a ready-to-use foundation for user login, registration, and session management, designed to follow best security practices.
 
 ## 🚀 Features
 
